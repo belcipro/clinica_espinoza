@@ -27,7 +27,7 @@
     "culqi": "0.0.2",
     "dayspan-vuetify": "^0.2.6",
     "moment": "^2.22.2",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "toastr": "^2.1.4",
     "v-calendar": "^0.9.7",
     "vue-barcode": "^1.1.0",
